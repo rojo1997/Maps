@@ -1,3 +1,8 @@
+# -----------------------------------------------------------------------------
+# (C) 2020 Ernesto Martinez del Pino, Granada, Spain
+# Released under GNU Public Licence (GPL)
+# email: ernestomar1997@hotmail.com
+# -----------------------------------------------------------------------------
 import googlemaps
 from datetime import datetime
 import json
